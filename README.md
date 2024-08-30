@@ -6,13 +6,7 @@
 ### 📖 Ongoing Learning
 **Expanding knowledge in:**  
 - C++
-- XAML
-- Python
-- C#
-
-### 🤝 Collaboration
-**Open to collaborations on:**  
-- Roblox Restoration projects
+- C
 
 ### 🔍 Seeking Assistance
 **Looking for help with:**  
